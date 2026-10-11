@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "QueueLess",
+    "slug": "queueless",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.anjola.queueless",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0F14"
+      }
+    }
+  }
+}
